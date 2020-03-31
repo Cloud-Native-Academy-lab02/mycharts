@@ -3,11 +3,11 @@ entries:
   eventapp-lab02:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2020-03-31T10:02:38.7221162+09:00
+    created: 2020-03-31T10:15:32.2960713+09:00
     description: A Helm chart for Kubernetes
-    digest: 89e8032d6cf4c0edd12b9fcf77a5d67ddbc05ee542e3792c05881712f581e690
+    digest: e24f9b331a9f6fe51336da55b164522a4a26a443f49cfa96edb1dbc34b1ddfcd
     name: eventapp-lab02
     urls:
     - https://cloud-native-academy-lab02.github.io/mycharts/eventapp-lab02-0.1.0.tgz
     version: 0.1.0
-generated: 2020-03-31T10:02:38.7211147+09:00
+generated: 2020-03-31T10:15:32.2950699+09:00
